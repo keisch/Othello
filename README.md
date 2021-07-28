@@ -1,5 +1,7 @@
 # Othello
 
+December, 2020
+
 This is a proyect from "Arquitectura de computadores" made in ASM by Fabricio Arce and Andrés Sánchez.
 
 Othello game, allows PvP as well as PvE made in TASM.
